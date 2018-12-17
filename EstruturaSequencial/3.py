@@ -1,0 +1,5 @@
+print('Digite dois números: ')
+numero1 = input()
+numero2 = input()
+soma = int(numero1) + int(numero2)
+print('A soma entre os números é:'+ str(soma))
